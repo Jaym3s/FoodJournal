@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FoodJournal</string>
+    <string name="instructions">Catalog my meal!</string>
+    <string name="action_settings">Settings</string>
+    <string name="glass_voice_trigger">Catalog my meal</string>
+
+</resources>
