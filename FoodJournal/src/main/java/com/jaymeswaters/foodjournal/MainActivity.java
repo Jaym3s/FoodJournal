@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.camera_preview_layout);
 
         // Create an instance of Camera
-        safeCameraOpen(42);
+        safeCameraOpen(1);
 
         // Create our Preview view and set it as the content of our activity.
         mPreview = new CameraPreview(this, mCamera);
